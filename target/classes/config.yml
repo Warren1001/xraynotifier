@@ -1,0 +1,5 @@
+
+# amount of diamonds every x seconds interval before notifying
+amount: 15
+# how many seconds is the above amount allowed before notifying?
+interval: 300
